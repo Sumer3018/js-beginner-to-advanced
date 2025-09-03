@@ -5,3 +5,7 @@ Select the container you need
 Select version and model
 Rebuild
 Good to go
+
+
+If their is problem with commiting go to settings enter ctrl + ,
+then search "files.exclude" remove "**/.git" from there and good to go
