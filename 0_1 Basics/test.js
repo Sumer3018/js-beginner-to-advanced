@@ -1,1 +1,2 @@
-console.log("I Love munnu")
+console.log("Hi!! First JS")
+
